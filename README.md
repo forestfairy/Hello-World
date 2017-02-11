@@ -1,2 +1,2 @@
 # Hello-World
-print "Hello world"
+Hello world from Mars
